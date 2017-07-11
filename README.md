@@ -1,5 +1,5 @@
 # Slides für die DAALA am 10.05.2016
-Dieses Repo enthält die Slides für meinen Talk beim [DAALA (Digital Analytics Association Late Afternoon)](https://digital-analytics-association.de/).
+Dieses Repo enthält die Slides für meinen Talk beim [DAALA (Digital Analytics Association Late Afternoon)](https://www.digital-analytics-association.de/index.php/veranstaltungen/rueckblick/71-daala-hamburg-dienstag-10-mai-2016-golf-lounge-hamburg-mit-etracker). 
 
 Titel: Professionelle Konversions-Analyse und -Optimierung (etracker) 
 
